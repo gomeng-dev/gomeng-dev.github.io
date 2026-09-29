@@ -6,7 +6,7 @@ labels: ''
 assignees: ''
 ---
 
-이 문의는 공개됩니다. 개인정보, 방문·다운로드 내역, 영상 주소, NAS 비밀번호나 앱 로그를 첨부하지 마세요.
-This request is public. Do not include personal information, browsing/download records, video URLs, NAS passwords or app logs.
+이 문의는 공개됩니다. 개인정보, 방문·다운로드 내역, 영상 주소, 네트워크 저장소 비밀번호나 앱 로그를 첨부하지 마세요.
+This request is public. Do not include personal information, browsing/download records, video URLs, network storage passwords or app logs.
 
 문의 내용 / Your question:
